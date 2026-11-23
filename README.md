@@ -170,3 +170,6 @@ See [LICENSE](LICENSE), [NOTICE](NOTICE), and [data/copyright.html](data/copyrig
 
 Our project is completely free and open source software. It had been reviewed by "[is it really FOSS?](https://isitreallyfoss.com/projects/comaps/)" and is listed as 100% FOSS, [see what that means](https://isitreallyfoss.com/about/categorisation/)
 
+
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ooosssay/comaps)
